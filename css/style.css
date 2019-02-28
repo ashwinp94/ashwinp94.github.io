@@ -1216,7 +1216,10 @@ body.section-switching.up .animation-block{
 }
 @media(min-width:992px){
 	.contact-info-icons{
-		padding-left:30px;
+		padding-left:36em;
+		margin-top: 30px;
+		color:rgba(0,0,0);
+
 	}
 }
 
