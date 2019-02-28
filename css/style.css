@@ -240,7 +240,7 @@ body.border-dark .main-content:after{
 =======================================================*/
 .section-main{
 	background-size:cover;
-	background-image:url(../img/bg.jpg);
+	background-image:url(../img/portfolio/mainpic.jpg);
 }
 .section-main:before{
 	content: ' ';
@@ -254,11 +254,11 @@ body.border-dark .main-content:after{
 	z-index:-1;
 }
 .intro-text{
-	padding:20px;
+	padding:0px;
 	text-align:center;
 }
 .intro-text > h1{
-	margin:0;
+	margin-bottom:200px;
 	color:#FFF;
 	text-transform:uppercase;
 	font-weight:900;
@@ -269,8 +269,7 @@ body.border-dark .main-content:after{
 	font-size:18px;
 	color:#FFF;
 	color:rgba(255,255,255,.8);
-	margin-top:15px;
-	margin-bottom:0;
+	margin-bottom:200px;
 	font-weight:300;
 	font-style:italic;
 	letter-spacing:2px;
